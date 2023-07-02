@@ -1,0 +1,45 @@
+C:\Users\Zver\Desktop\СР\СР\bin\Debug\net6.0\СР.exe
+C:\Users\Zver\Desktop\СР\СР\bin\Debug\net6.0\СР.deps.json
+C:\Users\Zver\Desktop\СР\СР\bin\Debug\net6.0\СР.runtimeconfig.json
+C:\Users\Zver\Desktop\СР\СР\bin\Debug\net6.0\СР.dll
+C:\Users\Zver\Desktop\СР\СР\bin\Debug\net6.0\СР.pdb
+C:\Users\Zver\Desktop\СР\СР\obj\Debug\net6.0\СР.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\СР\СР\obj\Debug\net6.0\СР.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\СР\СР\obj\Debug\net6.0\СР.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\СР\СР\obj\Debug\net6.0\СР.AssemblyInfo.cs
+C:\Users\Zver\Desktop\СР\СР\obj\Debug\net6.0\СР.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\СР\СР\obj\Debug\net6.0\СР.dll
+C:\Users\Zver\Desktop\СР\СР\obj\Debug\net6.0\refint\СР.dll
+C:\Users\Zver\Desktop\СР\СР\obj\Debug\net6.0\СР.pdb
+C:\Users\Zver\Desktop\СР\СР\obj\Debug\net6.0\СР.genruntimeconfig.cache
+C:\Users\Zver\Desktop\СР\СР\obj\Debug\net6.0\ref\СР.dll
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228\СР\bin\Debug\net6.0\СР.exe
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228\СР\bin\Debug\net6.0\СР.deps.json
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228\СР\bin\Debug\net6.0\СР.runtimeconfig.json
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228\СР\bin\Debug\net6.0\СР.dll
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228\СР\bin\Debug\net6.0\СР.pdb
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228\СР\obj\Debug\net6.0\СР.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228\СР\obj\Debug\net6.0\СР.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228\СР\obj\Debug\net6.0\СР.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228\СР\obj\Debug\net6.0\СР.AssemblyInfo.cs
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228\СР\obj\Debug\net6.0\СР.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228\СР\obj\Debug\net6.0\СР.dll
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228\СР\obj\Debug\net6.0\refint\СР.dll
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228\СР\obj\Debug\net6.0\СР.pdb
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228\СР\obj\Debug\net6.0\СР.genruntimeconfig.cache
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228\СР\obj\Debug\net6.0\ref\СР.dll
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228 csv\СР\bin\Debug\net6.0\СР.exe
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228 csv\СР\bin\Debug\net6.0\СР.deps.json
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228 csv\СР\bin\Debug\net6.0\СР.runtimeconfig.json
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228 csv\СР\bin\Debug\net6.0\СР.dll
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228 csv\СР\bin\Debug\net6.0\СР.pdb
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228 csv\СР\obj\Debug\net6.0\СР.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228 csv\СР\obj\Debug\net6.0\СР.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228 csv\СР\obj\Debug\net6.0\СР.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228 csv\СР\obj\Debug\net6.0\СР.AssemblyInfo.cs
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228 csv\СР\obj\Debug\net6.0\СР.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228 csv\СР\obj\Debug\net6.0\СР.dll
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228 csv\СР\obj\Debug\net6.0\refint\СР.dll
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228 csv\СР\obj\Debug\net6.0\СР.pdb
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228 csv\СР\obj\Debug\net6.0\СР.genruntimeconfig.cache
+C:\Users\Zver\Desktop\Программирование\Гакал БПИ228 csv\СР\obj\Debug\net6.0\ref\СР.dll

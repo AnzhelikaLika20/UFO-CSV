@@ -1,0 +1,15 @@
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Гакал БПИ228 csv\CSV\bin\Debug\net6.0\CSV.exe
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Гакал БПИ228 csv\CSV\bin\Debug\net6.0\CSV.deps.json
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Гакал БПИ228 csv\CSV\bin\Debug\net6.0\CSV.runtimeconfig.json
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Гакал БПИ228 csv\CSV\bin\Debug\net6.0\CSV.dll
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Гакал БПИ228 csv\CSV\bin\Debug\net6.0\CSV.pdb
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Гакал БПИ228 csv\CSV\obj\Debug\net6.0\CSV.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Гакал БПИ228 csv\CSV\obj\Debug\net6.0\CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Гакал БПИ228 csv\CSV\obj\Debug\net6.0\CSV.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Гакал БПИ228 csv\CSV\obj\Debug\net6.0\CSV.AssemblyInfo.cs
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Гакал БПИ228 csv\CSV\obj\Debug\net6.0\CSV.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Гакал БПИ228 csv\CSV\obj\Debug\net6.0\CSV.dll
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Гакал БПИ228 csv\CSV\obj\Debug\net6.0\refint\CSV.dll
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Гакал БПИ228 csv\CSV\obj\Debug\net6.0\CSV.pdb
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Гакал БПИ228 csv\CSV\obj\Debug\net6.0\CSV.genruntimeconfig.cache
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Гакал БПИ228 csv\CSV\obj\Debug\net6.0\ref\CSV.dll
